@@ -8,23 +8,7 @@ public class UsernameTest {
 		WebDriverManager.chromedriver().setup();
 		
 		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
+		
 		
 		
 	}

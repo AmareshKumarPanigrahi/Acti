@@ -11,21 +11,7 @@ public class User3Test {
 		WebDriverManager.chromedriver().setup();
 		
 		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
-		System.out.println("Amaresh");
+		
 		System.out.println("Amaresh");
 		System.out.println("Amaresh");
 		
