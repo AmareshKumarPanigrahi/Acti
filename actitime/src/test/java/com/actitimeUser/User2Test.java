@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class User2Test {
 
 	public static void main(String[] args) {
-		String browser="";
+		String browser=System.getProperty("Browser");
 		WebDriverManager.chromedriver().setup();
 		WebDriverManager.edgedriver().setup();
 		
