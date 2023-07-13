@@ -8,6 +8,7 @@ public class User2Test {
 		WebDriverManager.chromedriver().setup();
 		
 		System.out.println("Amaresh");
+		System.out.println("Amaresh");
 	
 		
 				
