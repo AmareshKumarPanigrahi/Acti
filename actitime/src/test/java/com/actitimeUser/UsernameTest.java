@@ -3,12 +3,13 @@ package com.actitimeUser;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class UsernameTest {
-	
-	public static void main(String[] args) {
+	@Test
+	public  void main(String[] args) {
 		String browser=System.getProperty("Browser");
 		WebDriverManager.chromedriver().setup();
 		WebDriverManager.edgedriver().setup();
