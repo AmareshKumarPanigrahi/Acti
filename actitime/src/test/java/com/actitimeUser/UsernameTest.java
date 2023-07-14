@@ -9,14 +9,14 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class UsernameTest {
 	@Test
-	public  void main() {
-		String browser=System.getProperty("Browser");
+	public  void ma() {
+		String browser="chrome";
 		WebDriverManager.chromedriver().setup();
 		WebDriverManager.edgedriver().setup();
 		
 		if(browser.equals("chrome")) {
 		WebDriver driver =new ChromeDriver();
-		driver.get("facebook.com");
+		driver.get("https://www.facebook.com");
 		}
 		else if(browser.equals("edge")) {
 			WebDriver driver =new EdgeDriver();
