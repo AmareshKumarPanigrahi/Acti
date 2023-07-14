@@ -9,7 +9,7 @@ public class User3Test {
 	
 	
 	@Test
-	public  void main(String[] args) {
+	public  void ma() {
 		WebDriverManager.chromedriver().setup();
 		
 		System.out.println("Amaresh");
